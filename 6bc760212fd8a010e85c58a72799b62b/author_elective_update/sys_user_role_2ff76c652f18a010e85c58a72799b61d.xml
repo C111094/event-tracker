@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_79214_create_req.it order reviewer</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_79214_create_req.it order reviewer</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-05 08:22:04</sys_created_on>
+        <sys_id>2ff76c652f18a010e85c58a72799b61d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_79214_create_req.it order reviewer</sys_name>
+        <sys_package display_value="Create Request" source="x_79214_create_req">6bc760212fd8a010e85c58a72799b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Create Request">6bc760212fd8a010e85c58a72799b62b</sys_scope>
+        <sys_update_name>sys_user_role_2ff76c652f18a010e85c58a72799b61d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-05 08:22:04</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Create Request">6bc760212fd8a010e85c58a72799b62b</application>
+        <file_path/>
+        <instance_id>e3fb5c51dbc7fb40b847ac44d49619b6</instance_id>
+        <instance_name>dev90423</instance_name>
+        <name>sys_user_role_2ff76c652f18a010e85c58a72799b61d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><encryption_context/><grantable>true</grantable><includes_roles/><name>x_79214_create_req.it order reviewer</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>x_79214_create_req.it order reviewer</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-05 08:22:04</sys_created_on><sys_id>2ff76c652f18a010e85c58a72799b61d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_79214_create_req.it order reviewer</sys_name><sys_package display_value="Create Request" source="x_79214_create_req">6bc760212fd8a010e85c58a72799b62b</sys_package><sys_policy/><sys_scope display_value="Create Request">6bc760212fd8a010e85c58a72799b62b</sys_scope><sys_update_name>sys_user_role_2ff76c652f18a010e85c58a72799b61d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-05 08:22:04</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1268659922</payload_hash>
+        <record_name>x_79214_create_req.it order reviewer</record_name>
+        <reverted_from/>
+        <source>f3c764612fd8a010e85c58a72799b696</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-05 08:22:04</sys_created_on>
+        <sys_id>27f76c652f18a010e85c58a72799b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175977f9ee60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-05 08:22:04</sys_updated_on>
+        <type>Role</type>
+        <update_guid>6ff76c65ee18a01025a4c52803c7e520</update_guid>
+        <update_guid_history>6ff76c65ee18a01025a4c52803c7e520:1268659922</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_79214_create_req.it order reviewer">982aa0252fd8a010e85c58a72799b657</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-05 08:31:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>b31875cd338848ea9c75fa2734a6d484</sys_id>
+        <sys_metadata>2ff76c652f18a010e85c58a72799b61d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_79214_create_req.it order reviewer</sys_name>
+        <sys_package display_value="Create Request" source="x_79214_create_req">6bc760212fd8a010e85c58a72799b62b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Create Request">6bc760212fd8a010e85c58a72799b62b</sys_scope>
+        <sys_scope_delete display_value="">0882e223e86b4f3e8a9ab6ac89d46624</sys_scope_delete>
+        <sys_update_name>sys_user_role_2ff76c652f18a010e85c58a72799b61d</sys_update_name>
+        <sys_update_version display_value="sys_user_role_2ff76c652f18a010e85c58a72799b61d">27f76c652f18a010e85c58a72799b621</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-05 08:31:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
